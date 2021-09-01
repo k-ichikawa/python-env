@@ -27,11 +27,11 @@ for tweet in tweets:
         exit;
 
 #db = mysql.connector.connect(
-#    host='172.19.0.2',
-#    port='3306',
-#    user='root',
-#    password='root',
-#    database='test_database'
+#    host='',
+#    port='',
+#    user='',
+#    password='',
+#    database=''
 #)
 #cursor=db.cursor()
 
